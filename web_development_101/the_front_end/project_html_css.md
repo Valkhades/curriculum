@@ -2555,6 +2555,8 @@ Submit a pull request with a link to your solution in this [file](https://github
 * [Vuyani's solution](https://github.com/vuyanir/google-homepage) - [View in Browser](https://github.com/vuyanir/google-homepage/)
 * [Eric Fetterolf's Solution (Easy)](https://github.com/BrokeChewbacca/google-homepage) - [View in Browser](https://brokechewbacca.github.io/google-homepage/)
 * [Eric Fetterolf's Solution (Difficult)](https://github.com/BrokeChewbacca/google-results-page) - [View in Browser](https://brokechewbacca.github.io/google-results-page/)
+* [Rodrigo Elias Solution (Easy)](https://github.com/Valkhades/google-homepage) - [View in Browser](https://valkhades.github.io/google-homepage/)
+* [Rodrigo Elias Solution (Hard)](https://github.com/Valkhades/google-resultpage) - [View in Browser](https://valkhades.github.io/google-resultpage/)
 </details>
 
 ### Additional Resources
