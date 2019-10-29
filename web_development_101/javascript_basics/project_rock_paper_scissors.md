@@ -974,4 +974,6 @@ Submit a solution with a pull request to this [file](https://github.com/TheOdinP
 - [anth-dev's solution](https://github.com/anth-dev/rock-paper-scissors-lizard-spock) - [View in Browser](https://anth-dev.github.io/rock-paper-scissors-lizard-spock/)
 - [Ayush's solution](https://github.com/kayush96/RockPaperScissors) - [View in Browser](https://github.com/kayush96/RockPaperScissors)
 - [singhmi4's solution](https://github.com/singhmi4/rock-paper-scissors) - [View in Browser](https://singhmi4.github.io/rock-paper-scissors)
+- [Rodrigo Elias solution](https://github.com/Valkhades/jokenpo) - [View in Browser](https://valkhades.github.io/jokenpo/)
+
 </details>
