@@ -601,4 +601,6 @@ Submit a solution with a pull request to this [file](https://github.com/TheOdinP
 * [Vorelli's Solution](https://github.com/Vorelli/Etch-A-Sketch) - [View in Browser](https://vorelli.github.io/Etch-A-Sketch/)
 * [MikeMitchell's Solution](https://github.com/mikemitchell574/etch-a-sketch) - [View in Browser](https://mikemitchell574.github.io/etch-a-sketch/)
 * [Singhmi4's Solution](https://github.com/singhmi4/etch-a-sketch) - [View in Browser](https://singhmi4.github.io/etch-a-sketch/)
+* [Rodrigo Elias](https://github.com/Valkhades/Etch-a-Sketch) - [View in Browser](https://valkhades.github.io/Etch-a-Sketch/)
+
 </details>
